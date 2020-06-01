@@ -1,0 +1,42 @@
+
+body {
+    background: #808080;
+    margin-left: 40px;
+    margin-right: 200px;
+}
+
+header {
+    margin-top: 50px;
+}
+
+footer {
+    margin-top: 50px;
+}
+
+h1 {
+    color: white;
+    font-family: fantasy;
+}
+
+h2 {
+    font-family: fantasy;
+}
+
+p {
+    font-size: 18px;
+}
+
+.img_padrao {
+    margin-bottom: 20px;
+    width: 500px;
+}
+
+.img_parceiros {
+    margin-bottom: 20px;
+    width: 200px;
+}
+
+.img_contato {
+    margin-bottom: 1px;
+    width: 30px;
+}
